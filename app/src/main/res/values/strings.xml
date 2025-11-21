@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ElementosUIApp</string>
+
+    <!-- Main / Home -->
+    <string name="titulo_home">Pantalla principal</string>
+    <string name="hint_nombre">Ingresa tu nombre</string>
+    <string name="btn_simular">Simular interacción</string>
+    <string name="texto_resultado_inicial">Aquí aparecerá el resultado de la simulación.</string>
+    <string name="error_nombre_vacio">Debes ingresar un nombre</string>
+    <string name="mensaje_resultado">Hola, %1$s. Esta es una simulación básica entre pantallas.</string>
+
+    <!-- Perfil -->
+    <string name="texto_perfil">Esta pantalla representa una segunda sección de la aplicación. Se accede mediante el Bottom Navigation.</string>
+
+    <!-- Menú Bottom Navigation -->
+    <string name="menu_home">Inicio</string>
+    <string name="menu_profile">Perfil</string>
+</resources>
